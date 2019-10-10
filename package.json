@@ -1,0 +1,24 @@
+{
+  "name": "liri-app",
+  "version": "1.0.0",
+  "description": "\"A language interpretation and recongnition\"",
+  "main": "liri-app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/travisstew/liri-node-app.git"
+  },
+  "author": "Travis Stewart",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/travisstew/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/travisstew/liri-node-app#readme",
+  "dependencies": {
+    "dotenv": "^8.1.0",
+    "moment": "^2.24.0",
+    "node-spotify-api": "^1.1.1"
+  }
+}
