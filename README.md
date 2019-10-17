@@ -5,10 +5,9 @@
 ![alt text](img/liri-app.gif)
 
 ## installation 
+Install and add these node packages to your project 
+
 ### enter in terminal
-
-Install and add thes npm packages to your project 
-
 1. npm init 
 2. npm install axios  —-save
 3. npm install inquirer -—save
