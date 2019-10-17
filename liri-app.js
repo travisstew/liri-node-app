@@ -45,7 +45,7 @@ function liriSpotify(track){
       .search({ type: 'track', query: song ,limit:'1' })
       .then(function(response) {
       var item = response.tracks.items[0];
-      var array = [item.name, ]
+    
       //songs name
       console.log(item.name,item.artists[0].name,item.album.name);
       //artist, maybe run a loop through artist for the names if more than one 
@@ -130,8 +130,8 @@ function liriConcert(){
     .finally(function () {
       // always executed
     }); 
-}
-
+  }
+  
 function liriDoWhat(){
     fs.readFile('random.txt', 'utf8',(err, data)=>{
         if(err){
