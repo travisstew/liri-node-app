@@ -4,8 +4,10 @@
 
 ![alt text](img/liri-app.gif)
 
-## install
+## installation 
 ### enter in terminal
+
+Install and add thes npm packages to your project 
 
 1. npm init 
 2. npm install axios  —-save
