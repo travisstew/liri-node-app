@@ -5,10 +5,13 @@
 ![alt text](img/liri-app.gif)
 
 ## install
+### enter in termminal
+
 1. npm init 
-2. npm install axios  —save
-3. npm install inquirer  —save
-4. npm install moment  —save
-5. npm install node-spotify-api  —save
+2. npm install axios  —-save
+3. npm install inquirer -—save
+4. npm install moment  -—save
+5. npm install node-spotify-api --save
+5. npm install dotenv  —-save
 
 
