@@ -5,7 +5,7 @@
 ![alt text](img/liri-app.gif)
 
 ## install
-### enter in termminal
+### enter in terminal
 
 1. npm init 
 2. npm install axios  —-save
