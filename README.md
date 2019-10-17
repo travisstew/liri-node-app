@@ -1,3 +1,3 @@
 # liri-node-app
-
+  A node application that gives the client information about a song, movie, or concert event, based off there search criteria.  Results will display after the client enters spotify-this-song, concert-this, movie-this, or do-what-it-says followed by a song title, movie title, or music artist name.  You can also input do-what-it-says to return the information on search criteria coming from an external file.  If know search criteria is enter the result will in a default search.  
 ![alt text](img/liri-app.gif)
